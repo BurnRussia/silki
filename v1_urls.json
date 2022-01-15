@@ -1,0 +1,17 @@
+{
+    "URL_CLIENT" : "http://vavilon-mobile.xyz/client.zip",
+    "URL_FILES" : "http://vavilon-mobile.xyz/files.zip",
+    "URL_LITE_CACHE" : "https://s766sas.storage.yandex.net/rdisk/1561935991492962f9b61674848cdf421e2507562bfee116e12a29eaf56d415b/61e326d6/s_VWgND1W_y--2aSYp-Lc9x70DmB8GR31KQ5_pGifCuMDD5hnM8e1iGVJSWtudOUuFjRs4UL7Tk_uBhbRM7wdQ==?uid=0&filename=game.zip&disposition=attachment&hash=DdpXr/dLobrNomwf%2Bj%2BFUNa9ucB3gw7EGPtpaiZdJ%2BXGhHBgCxk4IlPXsJuQwo9Kq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1090511397&fsize=1889357251&hid=3331f689783bd556a3d96edd8b077401&media_type=compressed&tknv=v2&rtoken=T3hxK4jwbjB7&force_default=no&ycrid=na-52d74d9116d7a6af8ee4faee5fda4bd0-downloader18f&ts=5d5a44f56e180&s=8e0021965af5aac88457c7e604a86cbb2a2b85ddb52f2c0d9830120629c79c16&pb=U2FsdGVkX18zK__oYSrUXh92aiL6iUIPfdlszQaHz-xBeJsF48U_nPgSKyYNDrrqxfkXkSvNS3t5hfqttz3JEMHb69Wqovrl8QEhqf7CuLE",
+    "URL_FULL_CACHE" : "http://stg.mimas.feralhosting.com/st/gm/full_cache.zip",
+    "URL_VERSIONS" : "http://vavilon-mobile.xyz/v1_versions.json",
+    "URL_GAME_SETTINGS" : "http://vavilon-mobile.xyz/gta_sa.set",
+    "URL_NEWS" : "http://vavilon-mobile.xyz/dimka/v1_news.json",
+    "URL_SERVERS": "https://burnrussia.github.io/BurnRussia/v1_servers.json",
+    "URL_VK": "https://vk.com/burnrussia.online",
+    "URL_NOTIFICATIONS": "http://vavilon-mobile.xyz/dimka/v0_notifications.json",
+    "URL_MODPACK": "http://vavilon-mobile.xyz/dimka/kytak.zip",
+    "URL_BACKUP": "http://vavilon-mobile.xyz/dimka/kytakkzip",
+    "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/clieиррnt20.zip",
+    "URL_CONFIG": "http://vavilon-mobile.xyz/dimka/v1_config.json",
+    "URL_LAUNCHER": "iz-rp.ru/dimka/launcher.apkko"
+}

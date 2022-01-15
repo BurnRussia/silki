@@ -1,5 +1,5 @@
 {
-    "URL_CLIENT" : "http://vavilon-mobile.xyz/client.zip",
+    "URL_CLIENT" : "https://s142vla.storage.yandex.net/rdisk/6797cdb117e67371e0fa5fff5d30cc3069a92ddcdcd2a3ff3b016133b12bd98b/61e35e8c/s_VWgND1W_y--2aSYp-Lc6PY0S-hWyh7trPQQyvjCCnpIXq8VLltZMlq14NpJJ4yiw9kHSfgde4wgip2SrV5bQ==?uid=0&filename=client.zip&disposition=attachment&hash=F%2BzH3/RDFyWB%2Bl/DSKMIarc4XWULqHhp46%2BN3spQaNiaSmfQCWx2ReasvGYCBagbq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1090511397&fsize=11837500&hid=91daabf8b00aa276b4b18ea4311a7642&media_type=compressed&tknv=v2&rtoken=Qj7tNdjnjzWj&force_default=no&ycrid=na-2dd3a69785a392b5c33a6662cbb6713e-downloader1h&ts=5d5a7a16bbb00&s=6a54a2ef80a120834c6b0e46115efd8024822453ad676a9508661f7cf165ff58&pb=U2FsdGVkX1-oszS2owOxFVT5quvF7J66kytxa6dDy_gTILU9qpo6RUFsFSyC92zFiAurltm4kzPvTh3TKGmNv3eiAulDMaXvQGAHasL5pRs",
     "URL_FILES" : "http://vavilon-mobile.xyz/files.zip",
     "URL_LITE_CACHE" : "https://s766sas.storage.yandex.net/rdisk/1561935991492962f9b61674848cdf421e2507562bfee116e12a29eaf56d415b/61e326d6/s_VWgND1W_y--2aSYp-Lc9x70DmB8GR31KQ5_pGifCuMDD5hnM8e1iGVJSWtudOUuFjRs4UL7Tk_uBhbRM7wdQ==?uid=0&filename=game.zip&disposition=attachment&hash=DdpXr/dLobrNomwf%2Bj%2BFUNa9ucB3gw7EGPtpaiZdJ%2BXGhHBgCxk4IlPXsJuQwo9Kq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1090511397&fsize=1889357251&hid=3331f689783bd556a3d96edd8b077401&media_type=compressed&tknv=v2&rtoken=T3hxK4jwbjB7&force_default=no&ycrid=na-52d74d9116d7a6af8ee4faee5fda4bd0-downloader18f&ts=5d5a44f56e180&s=8e0021965af5aac88457c7e604a86cbb2a2b85ddb52f2c0d9830120629c79c16&pb=U2FsdGVkX18zK__oYSrUXh92aiL6iUIPfdlszQaHz-xBeJsF48U_nPgSKyYNDrrqxfkXkSvNS3t5hfqttz3JEMHb69Wqovrl8QEhqf7CuLE",
     "URL_FULL_CACHE" : "http://stg.mimas.feralhosting.com/st/gm/full_cache.zip",
@@ -13,5 +13,5 @@
     "URL_BACKUP": "http://vavilon-mobile.xyz/dimka/kytakkzip",
     "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/clieиррnt20.zip",
     "URL_CONFIG": "http://vavilon-mobile.xyz/dimka/v1_config.json",
-    "URL_LAUNCHER": "iz-rp.ru/dimka/launcher.apkko"
+    "URL_LAUNCHER": "iz-rp.ru/dimka/launcher.apk"
 }
